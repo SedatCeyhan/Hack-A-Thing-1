@@ -14,3 +14,5 @@ I worked alone.
 
 Thank you,
 Sedat
+
+Note: I've worked 10 hours on codecademy tutorials!
