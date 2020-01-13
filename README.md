@@ -10,5 +10,7 @@ The idea of this website also relates to a possible project idea that I will tal
 I took https://www.codecademy.com/learn's 'Web Development' course. It's quite long and I believe that it will take me 2 more weeks to
 finish the entire course. Right now, I'm about 25% done.
 
+I worked alone.
+
 Thank you,
 Sedat
